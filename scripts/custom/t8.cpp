@@ -1,3 +1,4 @@
+//Lanc
 #include "precompiled.h"
  
 bool GossipHello_npc_vendor_armor(Player* pPlayer, Creature* pCreature)
